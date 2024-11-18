@@ -1,5 +1,5 @@
 # Deprecation Notice:
-This SDK is deprecated; you can continue to use it, but no new features or support requests will be accepted. A direct [REST API integration](https://developer.paypal.com/docs/api/orders/v2/) is recommended. Review the [docs on authorization](https://developer.paypal.com/api/rest/authentication/) for authenticating requests with the REST API.
+This SDK is deprecated; you can continue to use it, but no new features or support requests will be accepted. An integration with [the new Server SDK](https://github.com/paypal/PayPal-Server-SDKs) is recommended.  is recommended. Review the [docs](https://developer.paypal.com/serversdk/http/getting-started/how-to-get-started/) for details.
 
 ## REST API SDK for PHP V2
 
